@@ -6,6 +6,9 @@ A Flutter mobile application for Mini Mart management system - Final exam projec
 
 This is a comprehensive Mini Mart mobile application built with Flutter that connects to a Spring Boot API backend. The app provides features for product management, shopping cart, order processing, and payment integration with KHQR.
 
+## 📱 App Apk File
+- **📁 APK App:** [Click to download app apk file from google drive](https://drive.google.com/file/d/1xh3IZhEddcBjJh6mMvVpZMVdy6P1XryV/view?usp=drive_link)
+
 ## 🔗 Project Resources
 
 - **📁 Google Drive:** [Mini Mart APIs Spring Boot](https://drive.google.com/drive/folders/1Cb9AxJPKUhDnRtlv3d10wFR_3pkDXPwf?usp=sharing)
