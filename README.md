@@ -127,11 +127,12 @@ flutter build ios --release
 ## 👥 Team
 
 - **Developers:** 
-  - Samnang Yorn
-  - Sorm Mengseu
-  - Samnang Venneth
-  - Men Phearun
-  - Rin Thida
+  - Samnang Yorn (Build Spring Boot APIs and Prepare Project Strature)
+  - Sorm Mengseu (Build Flutter App)
+  - Samnang Venneth (Build Database)
+- **Tester:** 
+  - Men Phearun (Testing App With Crud)
+  - Rin Thida (Testing App with order and checkout intergrate payment of bakong)
 - **Email:** samnangyorn1@gmail.com
 - **University:** Setec Institute
 - **Year:** 4th Year, Semester 1
