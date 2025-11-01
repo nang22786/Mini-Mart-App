@@ -115,7 +115,7 @@ flutter test --coverage
 ## 👥 Team For Subject E-Commerce
 
 - **Developers:** 
-  - Samnang Yorn (Build Spring Boot APIs and Prepare Project Strature)
+  - Yorn Samnang (Build Spring Boot APIs and Prepare Project Strature)
   - Sorm Mengseu (Build Flutter App)
   - Samnang Venneth (Build Database)
 - **Tester:** 
@@ -128,7 +128,7 @@ flutter test --coverage
 ## 👥 Team For Subject Mobile Application
 
 - **Member:** 
-  - Samnang Yorn
+  - Yorn Samnang
   - Sorm Mengseu
   - Samnang Venneth
   - Nhor Vengchhay
