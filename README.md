@@ -112,18 +112,6 @@ flutter test
 flutter test --coverage
 ```
 
-## 📱 Build APK/IPA
-```bash
-# Android APK
-flutter build apk --release
-
-# Android App Bundle
-flutter build appbundle --release
-
-# iOS
-flutter build ios --release
-```
-
 ## 👥 Team
 
 - **Developers:** 
