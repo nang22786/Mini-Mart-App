@@ -131,9 +131,14 @@ flutter build ios --release
 
 ## 👥 Team
 
-- **Developer:** Samnang Yorn
+- **Developers:** 
+  - Samnang Yorn
+  - Sorm Mengseu
+  - Samnang Venneth
+  - Men Phearun
+  - Rin Thida
 - **Email:** samnangyorn1@gmail.com
-- **University:** [Your University]
+- **University:** Setec Institute
 - **Year:** 4th Year, Semester 1
 
 ## 📄 License
