@@ -152,7 +152,6 @@ This project is created for educational purposes as a final exam project.
 For any questions or issues, please contact:
 - Email: samnangyorn1@gmail.com
 - Phone: +855 96 326 0924
-- Google Drive: [Project Resources](https://drive.google.com/drive/folders/1Cb9AxJPKUhDnRtlv3d10wFR_3pkDXPwf?usp=sharing)
 
 ---
 
