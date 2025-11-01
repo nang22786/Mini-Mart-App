@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778574363781",
+    "project_id": "mini-mart-d5e53",
+    "storage_bucket": "mini-mart-d5e53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778574363781:android:3b07606450b1494b2bbdec",
+        "android_client_info": {
+          "package_name": "com.example.mini_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDijswHHqZRsFxmNPH1P61Bjy_rpa0-T4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
