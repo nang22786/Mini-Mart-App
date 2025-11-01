@@ -58,15 +58,11 @@ This is a comprehensive Mini Mart mobile application built with Flutter that con
    flutter pub get
 ```
 
-3. **Configure environment variables**
-   - Create a `.env` file in the project root
-   - Add your API configurations
-
-4. **Configure Firebase**
+3. **Configure Firebase**
    - Add `google-services.json` (Android) to `android/app/`
    - Add `GoogleService-Info.plist` (iOS) to `ios/Runner/`
 
-5. **Run the app**
+4. **Run the app**
 ```bash
    flutter run
 ```
@@ -104,14 +100,6 @@ mini_mart/
 ## 🎨 App Screenshots
 
 [Screenshots available in Google Drive]
-
-## 🔐 Environment Variables
-
-Create a `.env` file with:
-```env
-API_BASE_URL=http://157.10.73.21
-GOOGLE_MAPS_API_KEY=your_api_key_here
-```
 
 ## 🧪 Testing
 ```bash
