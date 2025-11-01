@@ -8,8 +8,7 @@ This is a comprehensive Mini Mart mobile application built with Flutter that con
 
 ## 🔗 Project Resources
 
-- **📁 Backend Google Drive:** [Project Files & Documentation](https://drive.google.com/drive/folders/1Cb9AxJPKUhDnRtlv3d10wFR_3pkDXPwf?usp=sharing)
-- **🌐 Live API:** http://157.10.73.21
+- **📁 Backend Google Drive:** [Spring Boot APIs](https://drive.google.com/drive/folders/1Cb9AxJPKUhDnRtlv3d10wFR_3pkDXPwf?usp=sharing)
 
 ## 🚀 Features
 
