@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Mini Mart App 🛒
 
 A Flutter mobile application for Mini Mart management system - Final exam project Year 4 Semester 1.
@@ -6,6 +5,12 @@ A Flutter mobile application for Mini Mart management system - Final exam projec
 ## 📱 About
 
 This is a comprehensive Mini Mart mobile application built with Flutter that connects to a Spring Boot API backend. The app provides features for product management, shopping cart, order processing, and payment integration with KHQR.
+
+## 🔗 Project Resources
+
+- **📁 Google Drive:** [Project Files & Documentation](https://drive.google.com/drive/folders/1Cb9AxJPKUhDnRtlv3d10wFR_3pkDXPwf?usp=sharing)
+- **🌐 Live API:** http://157.10.73.21
+- **💻 Backend Repository:** [Mini Mart APIs Spring Boot](https://github.com/nang22786/Mini-Mart-APIs-Spring-Boot-)
 
 ## 🚀 Features
 
@@ -55,7 +60,7 @@ This is a comprehensive Mini Mart mobile application built with Flutter that con
 
 3. **Configure environment variables**
    - Create a `.env` file in the project root
-   - Add your API configurations (see `.env.example`)
+   - Add your API configurations
 
 4. **Configure Firebase**
    - Add `google-services.json` (Android) to `android/app/`
@@ -71,7 +76,7 @@ This is a comprehensive Mini Mart mobile application built with Flutter that con
 This app connects to a Spring Boot REST API deployed on DPDC VPS.
 
 - **Base URL:** `http://157.10.73.21`
-- **API Documentation:** [Postman Collection]
+- **Backend Repository:** [Mini Mart APIs Spring Boot](https://github.com/nang22786/Mini-Mart-APIs-Spring-Boot-)
 
 ## 📱 Supported Platforms
 
@@ -98,7 +103,7 @@ mini_mart/
 
 ## 🎨 App Screenshots
 
-[Add screenshots here]
+[Screenshots available in Google Drive]
 
 ## 🔐 Environment Variables
 
@@ -157,8 +162,8 @@ This project is created for educational purposes as a final exam project.
 For any questions or issues, please contact:
 - Email: samnangyorn1@gmail.com
 - Phone: +855 96 326 0924
+- Google Drive: [Project Resources](https://drive.google.com/drive/folders/1Cb9AxJPKUhDnRtlv3d10wFR_3pkDXPwf?usp=sharing)
 
 ---
 
-**© 2025 Mini Mart App - Final Exam Project**
-EOF
+**© 2025 Mini Mart App - Final Exam Project | Setec Institute**
