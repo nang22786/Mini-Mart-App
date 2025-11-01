@@ -8,7 +8,8 @@ This is a comprehensive Mini Mart mobile application built with Flutter that con
 
 ## 🔗 Project Resources
 
-- **📁 Backend Google Drive:** [Spring Boot APIs](https://drive.google.com/drive/folders/1Cb9AxJPKUhDnRtlv3d10wFR_3pkDXPwf?usp=sharing)
+- **📁 Google Drive:** [Mini Mart APIs Spring Boot](https://drive.google.com/drive/folders/1Cb9AxJPKUhDnRtlv3d10wFR_3pkDXPwf?usp=sharing)
+- **🌐 Live API:** http://157.10.73.21
 
 ## 🚀 Features
 
@@ -70,7 +71,7 @@ This is a comprehensive Mini Mart mobile application built with Flutter that con
 This app connects to a Spring Boot REST API deployed on DPDC VPS.
 
 - **Base URL:** `http://157.10.73.21`
-- **Backend Repository:** [Mini Mart APIs Spring Boot](https://github.com/nang22786/Mini-Mart-APIs-Spring-Boot-)
+- **📁 Google Drive:** [Mini Mart APIs Spring Boot](https://drive.google.com/drive/folders/1Cb9AxJPKUhDnRtlv3d10wFR_3pkDXPwf?usp=sharing)
 
 ## 📱 Supported Platforms
 
