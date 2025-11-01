@@ -112,7 +112,7 @@ flutter test
 flutter test --coverage
 ```
 
-## 👥 Team
+## 👥 Team For Subject E-Commerce
 
 - **Developers:** 
   - Samnang Yorn (Build Spring Boot APIs and Prepare Project Strature)
@@ -121,6 +121,20 @@ flutter test --coverage
 - **Tester:** 
   - Men Phearun (Testing App With Crud)
   - Rin Thida (Testing App with order and checkout intergrate payment of bakong)
+- **Email:** samnangyorn1@gmail.com
+- **University:** Setec Institute
+- **Year:** 4th Year, Semester 1
+
+## 👥 Team For Subject Mobile Application
+
+- **Member:** 
+  - Samnang Yorn
+  - Sorm Mengseu
+  - Samnang Venneth
+  - Nhor Vengchhay
+  - Men Phearun
+  - Rin Thida
+  - Von Chanleakhina
 - **Email:** samnangyorn1@gmail.com
 - **University:** Setec Institute
 - **Year:** 4th Year, Semester 1
